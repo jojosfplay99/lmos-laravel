@@ -1,0 +1,39 @@
+#background_link{
+    background-image: url('../images/login-default.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+#card_link{
+    width: 60%;
+}
+
+#title{
+    font-size: 90px;
+    padding-top:10px ;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#logo{
+    width: 20%;
+    margin-top: -10px;
+}
+
+#sub{
+    margin: auto;
+    margin-top: -20px;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#data_field{
+    width: 80%;
+    margin: auto;
+}
+
+#login_text{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
